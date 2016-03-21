@@ -34,17 +34,12 @@ Useful javascript resources
 ### Articles
 ---
 #### Webpack
-+ AN INTRODUCTION TO WEBPACK
-  + http://code.hootsuite.com/webpack-101/
-+ Beginner’s guide to Webpack
-  + https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.afet6wahg
-+ Faster SASS builds with Webpack
-  + http://eng.localytics.com/faster-sass-builds-with-webpack/
++ [AN INTRODUCTION TO WEBPACK](http://code.hootsuite.com/webpack-101/)
++ [Beginner’s guide to Webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.afet6wahg)
++ [Faster SASS builds with Webpack](http://eng.localytics.com/faster-sass-builds-with-webpack/)
 
 #### Javascript
 + [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b?ref=webdesignernews.com#.uxt109kbf)
-  + 
 
 #### GraphQL
-+ Creating a GraphQL Server with Node.js and MongoDB
-  + http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/
++ [http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/](Creating a GraphQL Server with Node.js and MongoDB)
