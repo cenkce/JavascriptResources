@@ -13,6 +13,7 @@ https://github.com/mozilla/localForage
 ### Webpack Plugins
 
 https://github.com/markdalgleish/react-to-html-webpack-plugin
+https://github.com/ampedandwired/html-webpack-plugin
 
 ### Webservice and Api Consumer
 
