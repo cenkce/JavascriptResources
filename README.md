@@ -1,32 +1,32 @@
 # Javascript Resources
 Useful javascript resources
 
-## Supported Javascript Features List by Polyfills and Browsers
+### Supported Javascript Features List by Polyfills and Browsers
 
 + http://kangax.github.io/compat-table/es6/
 
-## Libraries
+### Libraries
 #### Localstorage
 
 + https://github.com/mozilla/localForage
 
-### Webpack Plugins
+#### Webpack Plugins
 
 + https://github.com/markdalgleish/react-to-html-webpack-plugin
 + https://github.com/ampedandwired/html-webpack-plugin
 
-### Webservice and Api Consumer
+#### Webservice and Api Consumer
 
 + https://github.com/github/fetch
 + https://github.com/alex94puchades/jsonapify
 
-## Code Samples
-### React
+### Code Samples
+#### React
 
 + https://github.com/pro-react/sample-code
 
-## Articles
-### Webpack
+### Articles
+#### Webpack
 + AN INTRODUCTION TO WEBPACK
   + http://code.hootsuite.com/webpack-101/
 + Beginner’s guide to Webpack
@@ -34,6 +34,6 @@ Useful javascript resources
 + Faster SASS builds with Webpack
   + http://eng.localytics.com/faster-sass-builds-with-webpack/
 
-### Javascript
+#### Javascript
 + State of the Art JavaScript in 2016
   + https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b?ref=webdesignernews.com#.uxt109kbf
