@@ -1,7 +1,7 @@
 # Javascript Resources
 Useful javascript resources
 
-## Supported Javascript Features
+## Supported Javascript Features List by Polyfills and Browsers
 
 http://kangax.github.io/compat-table/es6/
 
