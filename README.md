@@ -43,3 +43,6 @@ Useful javascript resources
 
 #### GraphQL
 + [Creating a GraphQL Server with Node.js and MongoDB](http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/)
+
+#### Redux
++ [Learn how to use redux step by step](https://github.com/happypoulp/redux-tutorial)
