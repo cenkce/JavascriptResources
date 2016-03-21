@@ -13,6 +13,9 @@ Useful javascript resources
 #### Hybrid Mobile Development
 + https://crosswalk-project.org/
 
+#### Data Structure
++ http://facebook.github.io/immutable-js/
+
 #### Webpack Plugins
 
 + https://github.com/markdalgleish/react-to-html-webpack-plugin
