@@ -7,7 +7,7 @@ Useful javascript resources
 
 ### Libraries
 #### Localstorage
-
+----------------
 + https://github.com/mozilla/localForage
 
 #### Hybrid Mobile Development
