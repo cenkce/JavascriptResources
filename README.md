@@ -6,7 +6,7 @@ Useful javascript resources
 + http://kangax.github.io/compat-table/es6/
 
 ### Libraries
---
+-
 #### Localstorage
 + https://github.com/mozilla/localForage
 
@@ -27,6 +27,7 @@ Useful javascript resources
 + https://github.com/alex94puchades/jsonapify
 
 ### Code Samples
+--
 #### React
 
 + https://github.com/pro-react/sample-code
