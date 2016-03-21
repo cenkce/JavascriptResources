@@ -10,6 +10,10 @@ http://kangax.github.io/compat-table/es6/
 
 https://github.com/mozilla/localForage
 
+### Webpack Plugins
+
+https://github.com/markdalgleish/react-to-html-webpack-plugin
+
 ### Webservice and Api Consumer
 
 https://github.com/github/fetch
