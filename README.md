@@ -6,7 +6,7 @@ Useful javascript resources
 + http://kangax.github.io/compat-table/es6/
 
 ### Libraries
--
+---
 #### Localstorage
 + https://github.com/mozilla/localForage
 
