@@ -2,7 +2,6 @@
 Useful javascript resources
 
 ### Supported Javascript Features List by Polyfills and Browsers
-
 + http://kangax.github.io/compat-table/es6/
 
 ### Libraries
@@ -27,12 +26,13 @@ Useful javascript resources
 + https://github.com/alex94puchades/jsonapify
 
 ### Code Samples
---
+---
 #### React
 
 + https://github.com/pro-react/sample-code
 
 ### Articles
+---
 #### Webpack
 + AN INTRODUCTION TO WEBPACK
   + http://code.hootsuite.com/webpack-101/
