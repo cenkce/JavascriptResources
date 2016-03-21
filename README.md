@@ -3,5 +3,4 @@ Useful javascript resources
 
 ### Supported Javascipt Features
 
-- http://kangax.github.io/compat-table/es6/
-- 
+http://kangax.github.io/compat-table/es6/
