@@ -10,7 +10,7 @@ Useful javascript resources
 
 + https://github.com/mozilla/localForage
 
-### Hybrid Mobile Development
+#### Hybrid Mobile Development
 + https://crosswalk-project.org/
 
 #### Webpack Plugins
