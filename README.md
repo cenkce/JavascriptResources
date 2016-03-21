@@ -42,4 +42,4 @@ Useful javascript resources
 + [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b?ref=webdesignernews.com#.uxt109kbf)
 
 #### GraphQL
-+ [http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/](Creating a GraphQL Server with Node.js and MongoDB)
++ [Creating a GraphQL Server with Node.js and MongoDB](http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/)
