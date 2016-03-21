@@ -1,0 +1,2 @@
+# JavascriptResources
+Useful javascript resources
