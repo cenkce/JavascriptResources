@@ -1,7 +1,7 @@
 # Javascript Resources
 Useful javascript resources
 
-## Supported Javascipt Features
+## Supported Javascript Features
 
 http://kangax.github.io/compat-table/es6/
 
