@@ -3,17 +3,17 @@ Useful javascript resources
 
 ## Supported Javascript Features List by Polyfills and Browsers
 
-http://kangax.github.io/compat-table/es6/
++ http://kangax.github.io/compat-table/es6/
 
 ## Libraries
-### Localstorage
+#### Localstorage
 
-https://github.com/mozilla/localForage
++ https://github.com/mozilla/localForage
 
 ### Webpack Plugins
 
-https://github.com/markdalgleish/react-to-html-webpack-plugin
-https://github.com/ampedandwired/html-webpack-plugin
++ https://github.com/markdalgleish/react-to-html-webpack-plugin
++ https://github.com/ampedandwired/html-webpack-plugin
 
 ### Webservice and Api Consumer
 
@@ -23,7 +23,7 @@ https://github.com/ampedandwired/html-webpack-plugin
 ## Code Samples
 ### React
 
-https://github.com/pro-react/sample-code
++ https://github.com/pro-react/sample-code
 
 ## Articles
 ### Webpack
