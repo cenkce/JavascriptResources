@@ -34,5 +34,5 @@ https://github.com/pro-react/sample-code
 + Faster SASS builds with Webpack
   + http://eng.localytics.com/faster-sass-builds-with-webpack/
 ### Javascript
-  + State of the Art JavaScript in 2016
-    + https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b?ref=webdesignernews.com#.uxt109kbf
++ State of the Art JavaScript in 2016
+  + https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b?ref=webdesignernews.com#.uxt109kbf
