@@ -12,6 +12,10 @@ Useful javascript resources
 #### Hybrid Mobile Development
 + https://crosswalk-project.org/
 
+#### WebVR
++ https://aframe.io/
++ https://mozvr.com/
+
 #### Data Structure
 + http://facebook.github.io/immutable-js/
 
