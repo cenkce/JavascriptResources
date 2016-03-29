@@ -15,6 +15,7 @@ Useful javascript resources
 #### WebVR
 + https://aframe.io/
 + https://mozvr.com/
++ https://github.com/borismus/webvr-boilerplate
 
 #### Data Structure
 + http://facebook.github.io/immutable-js/
