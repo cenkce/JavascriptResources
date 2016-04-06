@@ -54,3 +54,7 @@ Useful javascript resources
 
 #### Redux
 + [Learn how to use redux step by step](https://github.com/happypoulp/redux-tutorial)
+
+#### React
++ [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
+
