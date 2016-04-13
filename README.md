@@ -36,8 +36,10 @@ Useful javascript resources
 ### Code Samples
 ---
 #### React
-
 + https://github.com/pro-react/sample-code
+
+### Javascript
++ [Several demos and usages for ES6 destructuring.](https://gist.github.com/mikaelbr/9900818)
 
 ### Articles
 ---
