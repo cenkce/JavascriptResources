@@ -53,6 +53,7 @@ Useful javascript resources
 
 #### Code Convention
 + [Airbnb JavaScript Style Guide(](https://github.com/airbnb/javascript)
++ [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 
 #### Javascript
 + [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b?ref=webdesignernews.com#.uxt109kbf)
