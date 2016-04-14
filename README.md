@@ -54,6 +54,7 @@ Useful javascript resources
 + [Exploring ES6: Upgrade to the next version of JavaScript](http://exploringjs.com/)
 + [Dependency Injection for Modern Javascript Using ES6 Classes and ES7 Decorators](https://www.andrewmunsell.com/blog/dependency-injection-for-modern-javascript-using-es6-classes-and-es7-decorators/)
 + [Speaking JavaScript: An In-Depth Guide for Programmers](http://speakingjs.com/)
++ [Coroutine Event Loops in Javascript](https://x.st/javascript-coroutines/)
 
 #### GraphQL
 + [Creating a GraphQL Server with Node.js and MongoDB](http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/)
