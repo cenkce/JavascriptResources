@@ -6,9 +6,6 @@ Useful javascript resources
 
 ### Libraries
 ---
-#### Async
-+ (http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
-
 #### Localstorage
 + https://github.com/mozilla/localForage
 
@@ -46,6 +43,9 @@ Useful javascript resources
 
 ### Articles
 ---
+#### Async
++ [A Study on Solving Callbacks with JavaScript Generators](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
+
 #### Webpack
 + [AN INTRODUCTION TO WEBPACK](http://code.hootsuite.com/webpack-101/)
 + [Beginner’s guide to Webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.afet6wahg)
