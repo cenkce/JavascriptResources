@@ -43,7 +43,7 @@ Useful javascript resources
 
 ### Articles
 ---
-#### Async
+#### Asynchronous
 + [A Study on Solving Callbacks with JavaScript Generators](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
 
 #### Webpack
@@ -62,7 +62,6 @@ Useful javascript resources
 + [Dependency Injection for Modern Javascript Using ES6 Classes and ES7 Decorators](https://www.andrewmunsell.com/blog/dependency-injection-for-modern-javascript-using-es6-classes-and-es7-decorators/)
 + [Speaking JavaScript: An In-Depth Guide for Programmers](http://speakingjs.com/)
 + [Coroutine Event Loops in Javascript](https://x.st/javascript-coroutines/)
-+ [A Study on Solving Callbacks with JavaScript Generators](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
 
 #### GraphQL
 + [Creating a GraphQL Server with Node.js and MongoDB](http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/)
