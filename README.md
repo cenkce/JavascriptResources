@@ -51,6 +51,9 @@ Useful javascript resources
 + [Beginner’s guide to Webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.afet6wahg)
 + [Faster SASS builds with Webpack](http://eng.localytics.com/faster-sass-builds-with-webpack/)
 
+#### Code Convention
++ [Airbnb JavaScript Style Guide(](https://github.com/airbnb/javascript)
+
 #### Javascript
 + [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b?ref=webdesignernews.com#.uxt109kbf)
 + [Metaprogramming in ES6: Symbols and why they're awesome](http://blog.keithcirkel.co.uk/metaprogramming-in-es6-symbols/)
