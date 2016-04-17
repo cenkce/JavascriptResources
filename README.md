@@ -6,6 +6,9 @@ Useful javascript resources
 
 ### Libraries
 ---
+#### Peer to Peer
++ [PeerJS simplifies WebRTC peer-to-peer data, video, and audio calls.](http://peerjs.com/)
+
 #### Localstorage
 + https://github.com/mozilla/localForage
 
