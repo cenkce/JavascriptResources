@@ -50,7 +50,7 @@ Useful javascript resources
 + [A Study on Solving Callbacks with JavaScript Generators](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
 + [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
 + [Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8#.mxayig3ai)
-+ (A Curious Course on Coroutines and Concurrency - Python)[http://www.dabeaz.com/coroutines/Coroutines.pdf]
++ [A Curious Course on Coroutines and Concurrency - Python](http://www.dabeaz.com/coroutines/Coroutines.pdf)
 
 #### Webpack
 + [AN INTRODUCTION TO WEBPACK](http://code.hootsuite.com/webpack-101/)
