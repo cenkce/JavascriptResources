@@ -58,7 +58,7 @@ Useful javascript resources
 + [Faster SASS builds with Webpack](http://eng.localytics.com/faster-sass-builds-with-webpack/)
 
 #### Code Convention
-+ [Airbnb JavaScript Style Guide(](https://github.com/airbnb/javascript)
++ [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 + [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 
 #### Javascript
