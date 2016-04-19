@@ -81,3 +81,6 @@ Useful javascript resources
 + [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 + [Mostly reasonable patterns for writing React on Rails](https://github.com/planningcenter/react-patterns)
 + [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+
+#### Peer to Peer
++ [Build a Peer-to-Peer File Sharing Component in React & PeerJS](http://www.sitepoint.com/file-sharing-component-react/)
