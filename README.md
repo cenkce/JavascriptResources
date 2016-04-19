@@ -12,11 +12,14 @@ Useful javascript resources
 #### Localstorage
 + https://github.com/mozilla/localForage
 
+#### Promise
++ [Blue Bird](http://bluebirdjs.com/)
+
 #### Hybrid Mobile Development
 + https://crosswalk-project.org/
 
 #### Material Design
-+ Material Design React Components https://github.com/callemall/material-ui
++ [Material Design React Components](https://github.com/callemall/material-ui)
 
 #### WebVR
 + https://aframe.io/
