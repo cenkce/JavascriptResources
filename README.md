@@ -51,6 +51,8 @@ Useful javascript resources
 + [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
 + [Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8#.mxayig3ai)
 + [A Curious Course on Coroutines and Concurrency - Python](http://www.dabeaz.com/coroutines/Coroutines.pdf)
++ [Coroutine Event Loops in Javascript](https://x.st/javascript-coroutines/)
++ [Promise-Based Coroutines in Node.js](http://tobyho.com/2015/12/27/promise-based-coroutines-nodejs/)
 
 #### Webpack
 + [AN INTRODUCTION TO WEBPACK](http://code.hootsuite.com/webpack-101/)
