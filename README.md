@@ -14,6 +14,7 @@ Useful javascript resources
 
 #### Promise
 + [Blue Bird](http://bluebirdjs.com/)
++ [CO](https://github.com/tj/co)
 
 #### Hybrid Mobile Development
 + https://crosswalk-project.org/
