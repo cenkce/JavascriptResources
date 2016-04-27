@@ -44,6 +44,7 @@ Useful javascript resources
 ---
 #### React
 + https://github.com/pro-react/sample-code
++ [Specs & docs for potential future and experimental React APIs and JavaScript syntax.](https://github.com/reactjs/react-future)
 
 ### Javascript
 + [Several demos and usages for ES6 destructuring.](https://gist.github.com/mikaelbr/9900818)
