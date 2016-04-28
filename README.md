@@ -77,6 +77,7 @@ Useful javascript resources
 + [Coroutine Event Loops in Javascript](https://x.st/javascript-coroutines/)
 + [List of ES7 features](https://github.com/hemanth/es7-features)
 + [Traits with ES7 Decorators](http://cocktailjs.github.io/blog/traits-with-es7-decorators.html)
++ [ES7 Async Generator](https://github.com/jhusain/asyncgenerator)
 
 #### GraphQL
 + [Creating a GraphQL Server with Node.js and MongoDB](http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/)
