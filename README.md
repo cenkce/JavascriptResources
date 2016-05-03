@@ -84,6 +84,10 @@ Useful javascript resources
 + [Traits with ES7 Decorators](http://cocktailjs.github.io/blog/traits-with-es7-decorators.html)
 + [ES7 Async Generator](https://github.com/jhusain/asyncgenerator)
 
+#### Functional
++ [Functional JavaScript Mini Book](https://jcouyang.gitbooks.io/functional-javascript/content/zh//)
++ [JavaScript Functors Explained](https://dzone.com/articles/javascript-functors-explained-1)
+
 #### GraphQL
 + [Creating a GraphQL Server with Node.js and MongoDB](http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/)
 
