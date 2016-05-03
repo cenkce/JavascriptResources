@@ -29,6 +29,7 @@ Useful javascript resources
 
 #### Data Structure
 + http://facebook.github.io/immutable-js/
++ [A JavaScript library for efficient data fetching](https://github.com/Netflix/falcor)
 
 #### Webpack Plugins
 
