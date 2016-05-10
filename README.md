@@ -9,6 +9,10 @@ Useful javascript resources
 #### Peer to Peer
 + [PeerJS simplifies WebRTC peer-to-peer data, video, and audio calls.](http://peerjs.com/)
 
+#### Reactive
++ [The Reactive Extensions for JavaScript](http://reactivex.io)
++ [Cycle.js](http://cycle.js.org/)
+
 #### Localstorage
 + https://github.com/mozilla/localForage
 
@@ -83,6 +87,17 @@ Useful javascript resources
 + [List of ES7 features](https://github.com/hemanth/es7-features)
 + [Traits with ES7 Decorators](http://cocktailjs.github.io/blog/traits-with-es7-decorators.html)
 + [ES7 Async Generator](https://github.com/jhusain/asyncgenerator)
+
+#### Reactive
++ [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals)
++ [RxJS Design Guidelines](https://github.com/Reactive-Extensions/RxJS/tree/master/doc/designguidelines)
++ [Rx eBook](http://introtorx.com/)
++ [Functional Programming in Javascript](http://reactivex.io/learnrx/)
++ [A Dead-Simple Todo List with RxJS](http://blog.edanschwartz.com/2015/09/18/dead-simple-rxjs-todo-list/)
++ [Building realtime applications with CycleJS and RxJS](https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/)
++ [Getting Started with RxJS](https://miguelmota.com/blog/getting-started-with-rxjs/)
++ [Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872#.km1fsyiur)
++ [How do I create a custom event emitter?](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/howdoi/eventemitter.md)
 
 #### Functional
 + [Functional JavaScript Mini Book](https://jcouyang.gitbooks.io/functional-javascript/content/zh//)
