@@ -91,6 +91,7 @@ Useful javascript resources
 #### Reactive
 + [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals)
 + [RxJS Design Guidelines](https://github.com/Reactive-Extensions/RxJS/tree/master/doc/designguidelines)
++ [RxJS v4.0](http://xgrommx.github.io/rx-book/)
 + [Rx eBook](http://introtorx.com/)
 + [Functional Programming in Javascript](http://reactivex.io/learnrx/)
 + [A Dead-Simple Todo List with RxJS](http://blog.edanschwartz.com/2015/09/18/dead-simple-rxjs-todo-list/)
