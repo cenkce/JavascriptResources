@@ -115,6 +115,7 @@ Useful javascript resources
 + [Mostly reasonable patterns for writing React on Rails](https://github.com/planningcenter/react-patterns)
 + [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 + [React Patterns](https://github.com/planningcenter/react-patterns)
++ [ReactReact/Redux Links](https://github.com/markerikson/react-redux-links)
 + [Best Practices for Component State in React.js](http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html)
 
 #### Peer to Peer
