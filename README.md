@@ -87,6 +87,7 @@ Useful javascript resources
 + [List of ES7 features](https://github.com/hemanth/es7-features)
 + [Traits with ES7 Decorators](http://cocktailjs.github.io/blog/traits-with-es7-decorators.html)
 + [ES7 Async Generator](https://github.com/jhusain/asyncgenerator)
++ [Babel Plugin Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md)
 
 #### Reactive
 + [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals)
