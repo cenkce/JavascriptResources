@@ -103,6 +103,7 @@ Useful javascript resources
 #### Functional
 + [Functional JavaScript Mini Book](https://jcouyang.gitbooks.io/functional-javascript/content/zh//)
 + [JavaScript Functors Explained](https://dzone.com/articles/javascript-functors-explained-1)
++ [Functors, Applicatives, And Monads In Pictures](http://rimbi.github.io/functors-applicatives-monads-in-pictures.html)
 
 #### GraphQL
 + [Creating a GraphQL Server with Node.js and MongoDB](http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/)
