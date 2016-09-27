@@ -119,6 +119,7 @@ Useful javascript resources
 + [React Patterns](https://github.com/planningcenter/react-patterns)
 + [ReactReact/Redux Links](https://github.com/markerikson/react-redux-links)
 + [Best Practices for Component State in React.js](http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html)
++ [React How to](https://github.com/petehunt/react-howto)
 
 #### Peer to Peer
 + [Build a Peer-to-Peer File Sharing Component in React & PeerJS](http://www.sitepoint.com/file-sharing-component-react/)
